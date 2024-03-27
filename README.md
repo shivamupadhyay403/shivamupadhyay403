@@ -4,11 +4,6 @@
 - 👯 I’m looking for new role Software Engineer ...
 - 📫 How to reach me: shivamu181@gmail.com
 - ⚡ Fun fact: I am Coding enthusiastic...
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
-
 <!--
 **shivamupadhyay403/shivamupadhyay403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
