@@ -1,4 +1,4 @@
-### Hi there 👋 I Am <Shivam Upadhyay/>
+### Hi there 👋 I Am Shivam Upadhyay
  I am an enthusiastic Software Engineer characterized by adaptability and a fervent passion for continuous learning. Proficient in a spectrum of technologies, I specialize in the MERN Stack and Android Development utilizing Java, with additional expertise in Spring Boot. Currently, I am actively advancing my skills in Next.js, TypeScript, and GraphQL to enrich my repertoire and integrate cutting-edge solutions into live projects.
  
 - 🌱 I’m currently learning Next.js.
