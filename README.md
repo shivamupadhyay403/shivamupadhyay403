@@ -1,5 +1,5 @@
 ### Hi there 👋 I Am Shivam Upadhyay
-![Untitled design](https://github.com/shivamupadhyay403/shivamupadhyay403/assets/88397287/335f5c5d-ff06-4182-8d3e-1e64276648d5)
+<img width="1440" alt="Screenshot 2024-03-27 at 9 35 35 PM" src="https://github.com/shivamupadhyay403/shivamupadhyay403/assets/88397287/2e1de7e1-ca6e-4389-9e86-80b97c7a455d">
 
 
  I am an enthusiastic Software Engineer characterized by adaptability and a fervent passion for continuous learning. Proficient in a spectrum of technologies, I specialize in the MERN Stack and Android Development utilizing Java, with additional expertise in Spring Boot. Currently, I am actively advancing my skills in Next.js, TypeScript, and GraphQL to ##enrich my repertoire and integrate cutting-edge solutions into live projects.
