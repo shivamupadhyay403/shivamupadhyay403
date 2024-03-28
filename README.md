@@ -1,4 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shivam Upadhyay</h1>
+![Uploading Screenshot 2024-03-27 at 9.35.35 PM.png…]()
+
+
+
 <h3 align="center">I am an enthusiastic Software Engineer characterized by adaptability and a fervent passion for continuous learning. Proficient in a spectrum of technologies, I specialize in the MERN Stack and Android Development utilizing Java, with additional expertise in Spring Boot. Currently, I am actively advancing my skills in Next.js, TypeScript, and GraphQL to enrich my repertoire and integrate cutting-edge solutions into live projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamupadhyay403&label=Profile%20views&color=0e75b6&style=flat" alt="shivamupadhyay403" /> </p>
