@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Shivam Upadhyay</h1>
-![Uploading Screenshot 2024-03-27 at 9.35.35 PM.png…]()
 
 
 
